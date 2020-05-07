@@ -79,6 +79,7 @@ Vue will eventually be replacing React. But I'm working with both Vue and React 
 ```text
   npm install -g @vue/cli
 ```
+The rest of these need to be installed in a directory when you are working in your project. But I'm keeping them here as well. 
 Install Path
 ```text
   npm install path
