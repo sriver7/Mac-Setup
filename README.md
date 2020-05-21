@@ -52,7 +52,7 @@ Install Google Chrome browser. [Google Chrome](https://www.google.com/chrome/)
 ### Install Firefox
 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 ```text
-  brew cask install google-chrome
+  brew cask install firefox
 ```
 ### Install Postman
 This is my favorite tool to test my API's. Insomnia is also a good one.[Postman](https://www.postman.com)
