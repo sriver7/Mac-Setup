@@ -8,6 +8,23 @@ You can also install XCode from the app store later if you wish. But for now I j
 ```text
 xcode-select --install
 ```
+The following changes will improve access and visibility:
+Show Library Folder
+```text
+chflags nohidden ~/Library
+```
+Show Hidden Files
+```text
+defaults write com.apple.finder AppleShowAllFiles YES
+```
+Show Path Bar
+```text
+defaults write com.apple.finder ShowPathbar -bool true
+```
+Show Status Bar
+```text
+defaults write com.apple.finder ShowStatusBar -bool true
+```
 ### Install Homebrew
 This command comes from [Homebrew](https://brew.sh)
 Homebrew is a package manager that simiplifies installation of many things using terminal. Later we will use cask to install items such as Chrome, Firefox, Visual Studio Code, and Eclipse using "cask".
