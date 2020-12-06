@@ -39,37 +39,37 @@ Now we will use brew to install applications that we will need for development. 
 ### Install Spectacle 
 I like to use this tool to simiplify splitting my screen. After it installs you can set it up so that it runs on start up and also you can customize the commands. This command comes from [Spectacle](https://www.spectacleapp.com)
 ```text
-brew cask install spectacle
+brew install spectacle
 ```
 ### Install Java
 Currently the version is 14. 
 ```text
-brew cask install java
+brew install java
 ```
 ### Install Eclipse
 Install the Eclipse IDE. [Eclipse](https://www.eclipse.org/downloads/)
 ```text
-brew cask install eclipse-java
+brew install eclipse-java
 ```
 ### Install Visual Studio Code
 Install Visual Studio Code editor. [Visual Studio Code](https://code.visualstudio.com) 
 ```text
-brew cask install visual-studio-code
+brew install visual-studio-code
 ```
 ### Install Google Chrome
 Install Google Chrome browser. [Google Chrome](https://www.google.com/chrome/)
 ```text
-brew cask install google-chrome
+brew install google-chrome
 ```
 ### Install Firefox
 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 ```text
-brew cask install firefox
+brew install firefox
 ```
 ### Install Postman
 This is my favorite tool to test my API's. Insomnia is also a good one.[Postman](https://www.postman.com)
 ```text
-brew cask install postman
+brew install postman
 ```
 
 ## Install Node and Node Packages 
